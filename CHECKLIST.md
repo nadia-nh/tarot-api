@@ -5,5 +5,5 @@
 - [x] Add data models (`TarotCard`, `Orientation`, `CardListResponse`, `ErrorResponse`) + serialization test
 - [x] Add `cards.json` (normalized from source data) + `CardRepository` + repository tests
 - [x] Add API routes (`GET /api/v1/cards`, `GET /api/v1/cards/{id}`) + plugin wiring + route tests
-- [ ] Add deployment scaffolding (`Dockerfile`, `fly.toml`)
+- [x] Add deployment scaffolding (`Dockerfile`, `fly.toml`) — not verified with `docker build` (no Docker in this environment)
 - [ ] Write `README.md`
