@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "the_fool",
+    "name": "The Fool",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 0,
+    "upright": {
+      "keywords": [
+        "new beginnings",
+        "innocence",
+        "spontaneity",
+        "free spirit"
+      ],
+      "meaning": "A youth steps lightly toward the edge of a cliff, a small sack slung over one shoulder and eyes turned skyward rather than down at the path. There's no plan here, no baggage of past experience weighing things down, just an open heart ready to meet whatever the world has in store. This is the energy of a true beginning, where curiosity outweighs caution and every unknown feels like an invitation rather than a threat.",
+      "reflection": "Where am I being called to take a leap of faith?"
+    },
+    "reversed": {
+      "keywords": [
+        "recklessness",
+        "naivety",
+        "being taken advantage of",
+        "poor judgment"
+      ],
+      "meaning": "That same carefree spirit can tip into carelessness when caution is thrown out entirely. Leaping without a second thought, ignoring red flags, or trusting too easily can leave you exposed to people or situations that don't have your best interests at heart. It's worth pausing here, since a little forethought goes a long way toward protecting the openness this card usually celebrates.",
+      "reflection": "Where has carelessness cost me recently?"
+    }
+  },
+  {
+    "id": "the_magician",
+    "name": "The Magician",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 1,
+    "upright": {
+      "keywords": [
+        "manifestation",
+        "resourcefulness",
+        "willpower",
+        "skill"
+      ],
+      "meaning": "One hand reaches toward the heavens while the other points to the earth, channeling possibility into something real and tangible. Every tool needed for the task is already laid out, it's simply a matter of focus, skill, and the will to act. This is a moment when ideas stop being abstract and start becoming plans, projects, or results.",
+      "reflection": "Which of my talents have I left unused?"
+    },
+    "reversed": {
+      "keywords": [
+        "manipulation",
+        "untapped talent",
+        "poor planning",
+        "trickery"
+      ],
+      "meaning": "Talent and resources can sit unused when follow-through is missing, leaving good ideas stuck in the planning stage. Energy gets scattered across too many directions at once, or cleverness gets bent toward manipulation rather than honest creation. A gap between potential and execution is often at the heart of this reversal.",
+      "reflection": "Where am I spreading my energy too thin?"
+    }
+  },
+  {
+    "id": "the_high_priestess",
+    "name": "The High Priestess",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 2,
+    "upright": {
+      "keywords": [
+        "intuition",
+        "the unconscious",
+        "mystery",
+        "inner knowing"
+      ],
+      "meaning": "Seated between two pillars, one light and one dark, a quiet figure guards the space between what is known and what is felt. She asks for stillness rather than answers, trusting that intuition can reveal what logic alone cannot reach. This is a card about sitting with mystery, letting the unconscious speak before rushing toward conclusions.",
+      "reflection": "What is my intuition telling me that I've ignored?"
+    },
+    "reversed": {
+      "keywords": [
+        "secrets withheld",
+        "disconnection from intuition",
+        "repressed feelings",
+        "confusion"
+      ],
+      "meaning": "Touch with your own inner voice can fade when life gets loud, leaving instincts ignored in favor of surface appearances. Secrets, your own or someone else's, may be staying hidden longer than they should. Slowing down and tuning back in to gut feelings is often the remedy this reversal points toward.",
+      "reflection": "What feelings have I been avoiding?"
+    }
+  },
+  {
+    "id": "the_empress",
+    "name": "The Empress",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 3,
+    "upright": {
+      "keywords": [
+        "abundance",
+        "nurturing",
+        "fertility",
+        "creativity"
+      ],
+      "meaning": "Surrounded by abundant greenery and ripening fruit, a regal figure embodies the generative power of nature itself. Creativity, fertility, and sensory pleasure all flow freely here, whether that means a literal new life, a flourishing project, or simply a renewed appreciation for beauty and comfort. Growth feels effortless when this kind of nurturing energy is present.",
+      "reflection": "How can I welcome more joy and creativity into my life?"
+    },
+    "reversed": {
+      "keywords": [
+        "creative block",
+        "dependence",
+        "smothering",
+        "neglect"
+      ],
+      "meaning": "Creative wells can run dry, or care for others can tip into smothering rather than nourishing. Self-neglect often hides behind the appearance of generosity, with so much given outward that little is left for personal replenishment. Restoring balance between giving and receiving tends to be the lesson on offer.",
+      "reflection": "Am I giving too much to others and too little to myself?"
+    }
+  },
+  {
+    "id": "the_emperor",
+    "name": "The Emperor",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 4,
+    "upright": {
+      "keywords": [
+        "authority",
+        "structure",
+        "stability",
+        "leadership"
+      ],
+      "meaning": "A stone throne and an unwavering gaze set the tone here: order, structure, and steady leadership. Logic and discipline take precedence over impulse, building something durable rather than chasing quick wins. This is the energy of laying a solid foundation and having the authority to see a plan through.",
+      "reflection": "Where do I need more structure or discipline?"
+    },
+    "reversed": {
+      "keywords": [
+        "rigidity",
+        "domination",
+        "lack of discipline",
+        "tyranny"
+      ],
+      "meaning": "Authority can curdle into rigidity, with rules enforced more out of control than genuine purpose. A colder, more domineering approach may be pushing others away rather than earning their respect. On the flip side, this reversal can also point to a lack of discipline, where structure is missing entirely and plans drift without direction.",
+      "reflection": "Where has my need for control caused harm?"
+    }
+  },
+  {
+    "id": "the_hierophant",
+    "name": "The Hierophant",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 5,
+    "upright": {
+      "keywords": [
+        "tradition",
+        "convention",
+        "institutions",
+        "spiritual guidance"
+      ],
+      "meaning": "A bridge figure stands between the sacred and the everyday, upholding tradition, shared belief, and time-tested institutions. Education, mentorship, religious or cultural practice, and formal commitments all fall under this card's domain. There's comfort and guidance to be found in following an established path here.",
+      "reflection": "Which of my beliefs are truly mine?"
+    },
+    "reversed": {
+      "keywords": [
+        "rebellion",
+        "unconventional paths",
+        "questioning beliefs",
+        "restriction"
+      ],
+      "meaning": "Inherited rules and expectations start to feel confining when they no longer reflect what actually matters to you. This card flipped can mean stepping away from convention, questioning long-held beliefs, or simply choosing a less traditional route. It can also describe feeling boxed in by an institution or dogma that has overstayed its welcome.",
+      "reflection": "Which convention am I following that no longer fits me?"
+    }
+  },
+  {
+    "id": "the_lovers",
+    "name": "The Lovers",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 6,
+    "upright": {
+      "keywords": [
+        "love",
+        "harmony",
+        "partnership",
+        "values alignment"
+      ],
+      "meaning": "Two figures stand in open connection, representing harmony, deep partnership, and choices made from genuine alignment. While romance is the most obvious reading, this card extends to any relationship, or any decision, where values need to match up for things to work. Real intimacy requires being seen clearly, flaws and all.",
+      "reflection": "Are my choices aligned with my values?"
+    },
+    "reversed": {
+      "keywords": [
+        "disharmony",
+        "imbalance",
+        "misaligned values",
+        "indecision"
+      ],
+      "meaning": "Miscommunication or mismatched values can throw a relationship off balance, and that imbalance tends to show up here. Indecision is common too, especially when the heart and the head are pulling in different directions. A choice that once felt obvious may now feel tangled and uncertain.",
+      "reflection": "Where is poor communication causing tension?"
+    }
+  },
+  {
+    "id": "the_chariot",
+    "name": "The Chariot",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 7,
+    "upright": {
+      "keywords": [
+        "willpower",
+        "determination",
+        "victory",
+        "self-discipline"
+      ],
+      "meaning": "A determined figure drives forward while holding two opposing forces in check through sheer force of will. Victory comes not from eliminating conflict but from learning to steer it, staying focused even when circumstances pull in different directions. Momentum and self-discipline are the engines behind any progress made now.",
+      "reflection": "What would help me move forward with real focus?"
+    },
+    "reversed": {
+      "keywords": [
+        "lack of direction",
+        "aggression",
+        "obstacles",
+        "loss of control"
+      ],
+      "meaning": "Competing impulses can stall things out entirely when neither side is reined in. Aggression sometimes fills the gap left by genuine confidence, masking insecurity with bravado. Obstacles tend to multiply until the underlying conflict gets addressed rather than ignored.",
+      "reflection": "Which inner conflicts are holding me back?"
+    }
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 8,
+    "upright": {
+      "keywords": [
+        "inner strength",
+        "courage",
+        "compassion",
+        "patience"
+      ],
+      "meaning": "A figure calmly soothes a lion, proving that real power often looks gentle rather than forceful. Patience, compassion, and quiet resolve do more to tame difficulty than brute strength ever could. This card celebrates courage that holds steady under pressure instead of lashing out.",
+      "reflection": "Where could patience achieve more than force?"
+    },
+    "reversed": {
+      "keywords": [
+        "self-doubt",
+        "weakness",
+        "insecurity",
+        "loss of control"
+      ],
+      "meaning": "Confidence can waver when self-doubt creeps in, leaving things feeling more overwhelming than they need to be. A harsher, more combative approach sometimes takes the place of the patience this card usually calls for. Reconnecting with inner resolve, rather than forcing an outcome, tends to be the way through.",
+      "reflection": "Where has self-doubt held me back?"
+    }
+  },
+  {
+    "id": "the_hermit",
+    "name": "The Hermit",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 9,
+    "upright": {
+      "keywords": [
+        "introspection",
+        "solitude",
+        "inner guidance",
+        "soul-searching"
+      ],
+      "meaning": "A solitary figure walks a quiet path, lantern in hand, choosing introspection over the noise of the crowd. This is a deliberate retreat, time carved out to sit with big questions and listen for inner wisdom rather than outside opinions. Wisdom found in solitude here is meant to be brought back and shared later.",
+      "reflection": "Which question have I been avoiding sitting with?"
+    },
+    "reversed": {
+      "keywords": [
+        "isolation",
+        "loneliness",
+        "withdrawal",
+        "lost direction"
+      ],
+      "meaning": "Necessary alone time can curdle into isolation when withdrawal goes on too long, leaving you cut off rather than recharged. Avoiding the very self-reflection this card calls for is also common, with distraction taking the place of genuine introspection. A sense of being lost, without a clear lantern to guide the way, often shows up here.",
+      "reflection": "Has my solitude turned into isolation?"
+    }
+  },
+  {
+    "id": "wheel_of_fortune",
+    "name": "Wheel of Fortune",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 10,
+    "upright": {
+      "keywords": [
+        "change",
+        "cycles",
+        "fate",
+        "turning points"
+      ],
+      "meaning": "An ever-turning wheel marks the rhythm of life's larger cycles, reminding us that change is constant and rarely fully within our control. A shift in fortune is underway, sometimes lucky, sometimes challenging, but always part of something bigger than any single moment. Flexibility serves better than resistance when this card appears.",
+      "reflection": "How can I better adapt to the changes in my life?"
+    },
+    "reversed": {
+      "keywords": [
+        "bad luck",
+        "resistance to change",
+        "breaking cycles",
+        "lack of control"
+      ],
+      "meaning": "A run of bad luck can feel especially frustrating when it seems to arrive out of nowhere. Resisting an inevitable shift, or feeling stuck in a cycle that keeps repeating, is a common theme here. External circumstances may be steering events more than personal choices are right now.",
+      "reflection": "Where am I resisting an inevitable shift?"
+    }
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 11,
+    "upright": {
+      "keywords": [
+        "fairness",
+        "truth",
+        "cause and effect",
+        "accountability"
+      ],
+      "meaning": "Scales held in perfect balance speak to fairness, truth, and the simple law that actions eventually return to us in kind. Clear-eyed decisions, made with integrity rather than self-interest, tend to be rewarded under this card's influence. Legal matters, contracts, and ethical dilemmas often fall within its scope.",
+      "reflection": "Where am I avoiding accountability for my decisions?"
+    },
+    "reversed": {
+      "keywords": [
+        "dishonesty",
+        "unaccountability",
+        "unfairness",
+        "bias"
+      ],
+      "meaning": "Bias or dishonesty can tip the scales unfairly, leaving accountability nowhere to be found. A resolution may be dragging out longer than it should, or consequences are being dodged rather than faced. Decisions made now risk overlooking the very fairness this card stands for.",
+      "reflection": "Which honest action could help resolve an unfair situation?"
+    }
+  },
+  {
+    "id": "the_hanged_man",
+    "name": "The Hanged Man",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 12,
+    "upright": {
+      "keywords": [
+        "surrender",
+        "new perspective",
+        "pause",
+        "letting go"
+      ],
+      "meaning": "Suspended calmly upside down, a figure trades struggle for surrender, finding peace in letting go of control. Progress here doesn't come from pushing harder, it comes from pausing, shifting perspective, and seeing a familiar situation from an entirely new angle. Patience becomes its own form of action.",
+      "reflection": "What would I see if I viewed this from a new angle?"
+    },
+    "reversed": {
+      "keywords": [
+        "stalling",
+        "needless sacrifice",
+        "resistance",
+        "indecision"
+      ],
+      "meaning": "Unnecessary delay or sacrifice made without real purpose can leave things stuck longer than they should be. A fear of letting go often sits underneath this reversal, keeping someone tethered to a perspective that's no longer useful. Indecision tends to stretch on until the willingness to surrender finally arrives.",
+      "reflection": "What am I afraid will happen if I let go?"
+    }
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 13,
+    "upright": {
+      "keywords": [
+        "endings",
+        "transformation",
+        "transition",
+        "letting go"
+      ],
+      "meaning": "A figure rides forward as one chapter closes to make way for whatever comes next, and despite the unsettling name, this card rarely points to literal endings. Transformation here is clean and necessary, clearing space that's been needed for a while. What falls away does so to allow real growth.",
+      "reflection": "What am I clinging to that has run its course?"
+    },
+    "reversed": {
+      "keywords": [
+        "resistance to change",
+        "stagnation",
+        "decay",
+        "fear of endings"
+      ],
+      "meaning": "Clinging to something that has clearly run its course tends to show up when this card reverses. Fear of the unknown can keep an overdue ending from happening, leaving stagnation in its place. Decay sets in the longer a needed transition gets postponed.",
+      "reflection": "Where is fear of endings keeping me stuck?"
+    }
+  },
+  {
+    "id": "temperance",
+    "name": "Temperance",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 14,
+    "upright": {
+      "keywords": [
+        "balance",
+        "moderation",
+        "patience",
+        "harmony"
+      ],
+      "meaning": "Two cups pour into one another with careful, patient hands, blending opposites into something balanced and whole. Moderation, integration, and the steady middle path define this card's energy, bringing together emotion and logic, or work and rest, without favoring one extreme. Harmony here is earned through patience rather than luck.",
+      "reflection": "Where is balance most lacking in my life?"
+    },
+    "reversed": {
+      "keywords": [
+        "imbalance",
+        "excess",
+        "lack of harmony",
+        "impatience"
+      ],
+      "meaning": "Balance tends to slip when extremes take over, whether that's overindulgence, overwork, or simply impatience with a slower process. Competing priorities can pull focus in too many directions at once. A return to moderation usually resolves whatever feels off-kilter.",
+      "reflection": "Where have I been pushing to extremes?"
+    }
+  },
+  {
+    "id": "the_devil",
+    "name": "The Devil",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 15,
+    "upright": {
+      "keywords": [
+        "bondage",
+        "materialism",
+        "addiction",
+        "shadow self"
+      ],
+      "meaning": "Two figures stand loosely chained, free to walk away yet choosing to stay bound by habit, desire, or fear. Unhealthy attachments, addiction, toxic relationships, or self-imposed limitations, tend to hold more power than they should under this card's influence. The chains here are looser than they appear.",
+      "reflection": "Which habit or fear has more power over me than I'd like?"
+    },
+    "reversed": {
+      "keywords": [
+        "release",
+        "reclaiming control",
+        "breaking free",
+        "facing fears"
+      ],
+      "meaning": "Breaking free from a harmful pattern often marks this reversal, as old chains finally loosen their grip. Reclaiming personal power, confronting a long-avoided fear, or walking away from a draining relationship are all part of this release. What once felt inescapable starts to look more like a choice.",
+      "reflection": "What one step could I take toward more freedom?"
+    }
+  },
+  {
+    "id": "the_tower",
+    "name": "The Tower",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 16,
+    "upright": {
+      "keywords": [
+        "sudden upheaval",
+        "revelation",
+        "disruption",
+        "awakening"
+      ],
+      "meaning": "Lightning splits a tall structure apart in a single dramatic instant, and whatever wasn't built on solid ground comes crashing down. Sudden, disruptive as it is, this collapse tends to clear away illusions that were never going to hold. What follows the shock is usually a more honest foundation.",
+      "reflection": "What in my life might be built on a shaky foundation?"
+    },
+    "reversed": {
+      "keywords": [
+        "averted disaster",
+        "delayed change",
+        "fear of change",
+        "resisting collapse"
+      ],
+      "meaning": "Disaster narrowly avoided, or simply postponed, often defines this reversal, the lightning strike is coming, just not yet. Fear of the upheaval needed to break free from a shaky situation can keep things propped up longer than they should be. Delaying the fall doesn't make the cracks disappear.",
+      "reflection": "What am I afraid to lose if things change?"
+    }
+  },
+  {
+    "id": "the_star",
+    "name": "The Star",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 17,
+    "upright": {
+      "keywords": [
+        "hope",
+        "faith",
+        "renewal",
+        "inspiration"
+      ],
+      "meaning": "Under a calm night sky, a figure pours water freely, embodying hope, healing, and quiet faith after a difficult stretch. This is a moment of renewal, where inspiration returns and the future starts to feel possible again. Optimism here is gentle rather than naive, grounded in genuine healing.",
+      "reflection": "What does genuine hope look like for me right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "despair",
+        "self-doubt",
+        "disconnection",
+        "lack of faith"
+      ],
+      "meaning": "Discouragement can settle in when hope feels harder to access than usual, leaving faith shaken. A disconnect from whatever normally inspires you may be at play, making it tough to see the light at the end of things. Reconnecting with what genuinely nourishes the spirit tends to be the way back.",
+      "reflection": "What do I need to feel inspired again?"
+    }
+  },
+  {
+    "id": "the_moon",
+    "name": "The Moon",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 18,
+    "upright": {
+      "keywords": [
+        "illusion",
+        "intuition",
+        "subconscious",
+        "uncertainty"
+      ],
+      "meaning": "A winding path stretches under dim, uncertain light, leading through the territory of dreams, intuition, and the subconscious mind. Things aren't entirely clear here, and that's the point, instinct has to take the lead when logic runs short. Ambiguity asks to be respected rather than rushed through.",
+      "reflection": "Which fear might be distorting how I see my situation?"
+    },
+    "reversed": {
+      "keywords": [
+        "releasing fear",
+        "repressed emotion",
+        "confusion clearing",
+        "inner turmoil"
+      ],
+      "meaning": "Confusion that's lingered for a while can finally start to clear, bringing buried fears or emotions up to the surface to be dealt with. Ongoing anxiety or difficulty trusting your own perception may still be at play, though. Sorting illusion from reality is the central work this reversal points toward.",
+      "reflection": "What truth have I been avoiding?"
+    }
+  },
+  {
+    "id": "the_sun",
+    "name": "The Sun",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 19,
+    "upright": {
+      "keywords": [
+        "joy",
+        "success",
+        "vitality",
+        "positivity"
+      ],
+      "meaning": "Warm, unfiltered light pours down, radiating joy, vitality, and a genuine sense of success. Few cards in the deck feel as openly positive as this one, pointing to confidence, good fortune, and the satisfaction of living authentically. Things click into place with relative ease here.",
+      "reflection": "Where am I thriving, and how can I bring that energy elsewhere?"
+    },
+    "reversed": {
+      "keywords": [
+        "temporary clouds",
+        "lack of enthusiasm",
+        "unrealistic expectations",
+        "delayed success"
+      ],
+      "meaning": "Clouds passing in front of an otherwise bright sky can dim enthusiasm or delay a success that still feels close. Confidence may be harder to access than usual, or expectations have grown a little unrealistic. The brightness this card usually brings hasn't disappeared, it's just temporarily obscured.",
+      "reflection": "What is dimming my confidence right now?"
+    }
+  },
+  {
+    "id": "judgement",
+    "name": "Judgement",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 20,
+    "upright": {
+      "keywords": [
+        "reflection",
+        "awakening",
+        "reckoning",
+        "renewal"
+      ],
+      "meaning": "A trumpet call rouses figures rising from below, summoned to a moment of reckoning, awakening, and rebirth. This is a card about self-reflection on a grand scale, evaluating where life has led so far and answering a deeper call toward purpose. Renewal follows honest self-assessment here.",
+      "reflection": "Which calling have I been ignoring or delaying?"
+    },
+    "reversed": {
+      "keywords": [
+        "self-doubt",
+        "harsh self-judgment",
+        "ignoring the call",
+        "lack of self-awareness"
+      ],
+      "meaning": "Harsh self-criticism can drown out the clarity this card usually offers, making it hard to hear an important calling. Ignoring that call altogether, or doubting decisions that genuinely need to be made, is common in this position. Greater self-awareness tends to be the missing piece.",
+      "reflection": "Where has harsh self-judgment blocked my growth?"
+    }
+  },
+  {
+    "id": "the_world",
+    "name": "The World",
+    "suit": "major_arcana",
+    "rank": null,
+    "value": 21,
+    "upright": {
+      "keywords": [
+        "completion",
+        "fulfillment",
+        "wholeness",
+        "accomplishment"
+      ],
+      "meaning": "A dancing figure moves freely within an encircling wreath, marking the satisfying close of a long and meaningful journey. Wholeness, accomplishment, and integration define this card, everything learned along the way has finally come together. Completion here feels earned rather than accidental.",
+      "reflection": "How close am I to the completion I'm seeking?"
+    },
+    "reversed": {
+      "keywords": [
+        "incompletion",
+        "lack of closure",
+        "delays",
+        "unfinished business"
+      ],
+      "meaning": "Loose ends can keep a sense of closure just out of reach, even when the finish line is clearly in sight. Delays near the end of a project or chapter are common, along with unfinished business that needs tying up first. Full completion is close, but not quite arrived.",
+      "reflection": "Which unfinished business is keeping me from closure?"
+    }
+  },
+  {
+    "id": "ace_of_wands",
+    "name": "Ace of Wands",
+    "suit": "wands",
+    "rank": "ace",
+    "value": 1,
+    "upright": {
+      "keywords": [
+        "inspiration",
+        "new opportunities",
+        "growth",
+        "potential"
+      ],
+      "meaning": "A single spark of inspiration arrives, full of raw creative potential just waiting to be acted on. This marks the start of a new venture, passion project, or burst of motivation eager to take root. Energy here is pure possibility, not yet shaped into anything concrete.",
+      "reflection": "Which creative pursuit have I been hesitating to begin?"
+    },
+    "reversed": {
+      "keywords": [
+        "delays",
+        "lack of motivation",
+        "missed opportunity",
+        "false starts"
+      ],
+      "meaning": "That initial spark can fizzle before it really catches, leaving motivation feeling just out of reach. Delays or a lack of clear direction often get in the way of an opportunity that's otherwise ready and waiting. Creative energy may exist but hasn't yet found its outlet.",
+      "reflection": "What is blocking me from acting on an exciting idea?"
+    }
+  },
+  {
+    "id": "two_of_wands",
+    "name": "Two of Wands",
+    "suit": "wands",
+    "rank": "2",
+    "value": 2,
+    "upright": {
+      "keywords": [
+        "planning",
+        "future vision",
+        "decisions",
+        "discovery"
+      ],
+      "meaning": "A figure surveys a wide horizon, weighing future possibilities and deciding where to direct ambition next. Planning and vision take center stage here, with the groundwork laid but the next big move still being mapped out. This is a card of deliberate forward thinking.",
+      "reflection": "Which bold vision for my future am I ready to commit to?"
+    },
+    "reversed": {
+      "keywords": [
+        "fear of unknown",
+        "lack of planning",
+        "playing it safe",
+        "indecision"
+      ],
+      "meaning": "Fear of the unknown can keep plans stuck in the safe, familiar zone, holding back any real expansion. Indecision about which path to commit to often lingers here, with too many options and not enough clarity. Playing it too safe risks missing genuine opportunity.",
+      "reflection": "Where is fear of the unknown holding me back?"
+    }
+  },
+  {
+    "id": "three_of_wands",
+    "name": "Three of Wands",
+    "suit": "wands",
+    "rank": "3",
+    "value": 3,
+    "upright": {
+      "keywords": [
+        "expansion",
+        "foresight",
+        "progress",
+        "exploration"
+      ],
+      "meaning": "Standing at the shore, a figure watches ships sail toward new horizons, marking the early progress of a venture already in motion. Expansion and forward planning define this stage, with initial efforts just beginning to bear fruit. Patience now sets the stage for bigger returns later.",
+      "reflection": "Which early efforts can I build on right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "delays",
+        "lack of foresight",
+        "obstacles to growth",
+        "unexpected setbacks"
+      ],
+      "meaning": "Progress that seemed steady can hit unexpected delays, slowing momentum just as things were picking up. A lack of foresight sometimes leaves plans more vulnerable than expected. Revisiting the original strategy may be necessary before moving forward again.",
+      "reflection": "Where do my plans need a course correction?"
+    }
+  },
+  {
+    "id": "four_of_wands",
+    "name": "Four of Wands",
+    "suit": "wands",
+    "rank": "4",
+    "value": 4,
+    "upright": {
+      "keywords": [
+        "celebration",
+        "homecoming",
+        "stability",
+        "milestones"
+      ],
+      "meaning": "A joyful celebration unfolds beneath a flowered canopy, marking a milestone worth honoring, a homecoming, wedding, or hard-earned achievement. Stable foundations finally get their moment of recognition here. This is a card of happy, well-deserved festivity.",
+      "reflection": "Which milestone in my life deserves to be celebrated?"
+    },
+    "reversed": {
+      "keywords": [
+        "lack of harmony at home",
+        "transition",
+        "delayed celebration",
+        "instability"
+      ],
+      "meaning": "A celebration can end up delayed or disrupted, with the harmony this card usually brings feeling harder to reach. Tension at home, or instability in a foundation once thought secure, may be at play. A transitional period likely needs to pass before things settle again.",
+      "reflection": "What is disrupting the harmony I've been working toward?"
+    }
+  },
+  {
+    "id": "five_of_wands",
+    "name": "Five of Wands",
+    "suit": "wands",
+    "rank": "5",
+    "value": 5,
+    "upright": {
+      "keywords": [
+        "conflict",
+        "competition",
+        "tension",
+        "disagreement"
+      ],
+      "meaning": "Several figures clash their staffs together in a flurry of competition and friction. Different approaches collide here, creating chaos that's more about being heard than causing real harm. Healthy rivalry and disagreement tend to drive this energy forward.",
+      "reflection": "Where is healthy competition pushing me to grow?"
+    },
+    "reversed": {
+      "keywords": [
+        "avoiding conflict",
+        "resolution",
+        "inner conflict",
+        "tension easing"
+      ],
+      "meaning": "Conflict can finally settle once tempers cool, bringing a welcome resolution after a stretch of tension. On the other hand, this reversal can also point to avoiding necessary confrontation altogether, letting friction simmer unaddressed. Internal conflict between competing desires is another possibility.",
+      "reflection": "Where is conflict draining my energy?"
+    }
+  },
+  {
+    "id": "six_of_wands",
+    "name": "Six of Wands",
+    "suit": "wands",
+    "rank": "6",
+    "value": 6,
+    "upright": {
+      "keywords": [
+        "victory",
+        "recognition",
+        "success",
+        "confidence"
+      ],
+      "meaning": "A triumphant figure rides through a cheering crowd, basking in victory and well-earned public recognition. Confidence comes easily here, fueled by visible proof of success. This is a moment to be seen and celebrated for genuine effort.",
+      "reflection": "Which recent effort deserves to be acknowledged?"
+    },
+    "reversed": {
+      "keywords": [
+        "lack of recognition",
+        "self-doubt",
+        "fall from grace",
+        "delayed success"
+      ],
+      "meaning": "Recognition can feel slow to arrive even when the effort behind it was real, leaving confidence shakier than expected. A setback after a win, or quiet self-doubt despite outward success, often shows up in this position. Acknowledgment may simply be delayed rather than denied.",
+      "reflection": "Where is self-doubt undermining a confidence I've earned?"
+    }
+  },
+  {
+    "id": "seven_of_wands",
+    "name": "Seven of Wands",
+    "suit": "wands",
+    "rank": "7",
+    "value": 7,
+    "upright": {
+      "keywords": [
+        "perseverance",
+        "defensiveness",
+        "standing your ground",
+        "challenge"
+      ],
+      "meaning": "From higher ground, a figure holds their position against multiple challengers, embodying perseverance and the will to stand firm. Defending what's been built matters more than backing down here, even against the odds. Confidence under pressure is the throughline.",
+      "reflection": "What is worth standing firm for right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "overwhelm",
+        "giving up",
+        "exhaustion",
+        "yielding ground"
+      ],
+      "meaning": "Constant defense can wear a person down, leaving exhaustion where confidence used to be. Giving up the fight, or losing footing under sustained pressure, often marks this reversal. The energy needed to keep standing firm may simply be running low.",
+      "reflection": "Is what I'm defending still worth the fight?"
+    }
+  },
+  {
+    "id": "eight_of_wands",
+    "name": "Eight of Wands",
+    "suit": "wands",
+    "rank": "8",
+    "value": 8,
+    "upright": {
+      "keywords": [
+        "fast movement",
+        "momentum",
+        "quick decisions",
+        "swift action"
+      ],
+      "meaning": "Arrows fly swiftly through a clear sky, carrying momentum and speed after what may have been a slower buildup. Quick decisions and rapid movement define this stage, with things finally picking up pace. Action arrives fast once it finally arrives.",
+      "reflection": "What have I been waiting to act on?"
+    },
+    "reversed": {
+      "keywords": [
+        "delays",
+        "frustration",
+        "slowing down",
+        "rushed decisions"
+      ],
+      "meaning": "Momentum that should be building instead stalls out, bringing frustrating delays right when things were starting to move. Decisions made in haste can backfire under this kind of pressure. Patience may be required even when everything in you wants to rush forward.",
+      "reflection": "Where is haste creating more problems than it solves?"
+    }
+  },
+  {
+    "id": "nine_of_wands",
+    "name": "Nine of Wands",
+    "suit": "wands",
+    "rank": "9",
+    "value": 9,
+    "upright": {
+      "keywords": [
+        "resilience",
+        "persistence",
+        "last stretch",
+        "vigilance"
+      ],
+      "meaning": "Worn down but still watchful, a figure stands guard, drawing on reserves of resilience built through earlier battles. Persistence carries the day here, even when exhaustion is setting in. The finish line is close, even if it doesn't feel that way yet.",
+      "reflection": "Which reserves of resilience can I draw on right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "burnout",
+        "exhaustion",
+        "defensiveness",
+        "giving up too soon"
+      ],
+      "meaning": "Burnout can creep in after one too many rounds of defending the same ground, leaving energy and patience both thin. Excessive defensiveness sometimes replaces genuine resilience. Giving up just before the finish line is a real risk in this position.",
+      "reflection": "Where am I more guarded than I need to be?"
+    }
+  },
+  {
+    "id": "ten_of_wands",
+    "name": "Ten of Wands",
+    "suit": "wands",
+    "rank": "10",
+    "value": 10,
+    "upright": {
+      "keywords": [
+        "burden",
+        "responsibility",
+        "hard work",
+        "overload"
+      ],
+      "meaning": "Straining under a heavy bundle of staffs, a figure pushes forward despite the obvious weight of accumulated responsibility. Hard work and obligation define this stage, with burdens piling up faster than they're being set down. Completion is close, but exhaustion is real.",
+      "reflection": "Which responsibilities could I share or set down?"
+    },
+    "reversed": {
+      "keywords": [
+        "delegation",
+        "release",
+        "burnout",
+        "dropping the load"
+      ],
+      "meaning": "Learning to delegate, or finally setting down a load that's grown too heavy, marks a welcome shift in this reversal. Burnout from carrying too much for too long is a real risk if nothing changes. It may simply be time to let go of something.",
+      "reflection": "What am I carrying out of obligation rather than purpose?"
+    }
+  },
+  {
+    "id": "page_of_wands",
+    "name": "Page of Wands",
+    "suit": "wands",
+    "rank": "page",
+    "value": 11,
+    "upright": {
+      "keywords": [
+        "enthusiasm",
+        "exploration",
+        "free spirit",
+        "discovery"
+      ],
+      "meaning": "A curious young messenger sets off eagerly, drawn toward new ideas and untested adventures. Enthusiasm runs high here, fueled by the spark of a fresh passion rather than any real plan. Exploration matters more than caution at this stage.",
+      "reflection": "Which creative spark can I explore?"
+    },
+    "reversed": {
+      "keywords": [
+        "recklessness",
+        "lack of direction",
+        "creative block",
+        "scattered energy"
+      ],
+      "meaning": "Excitement can fizzle before it leads anywhere real, leaving energy scattered without clear direction. Recklessness sometimes shows up when enthusiasm outpaces planning. A creative block can also stall the eagerness this card usually represents.",
+      "reflection": "Where am I not following through on things I care about?"
+    }
+  },
+  {
+    "id": "knight_of_wands",
+    "name": "Knight of Wands",
+    "suit": "wands",
+    "rank": "knight",
+    "value": 12,
+    "upright": {
+      "keywords": [
+        "action",
+        "passion",
+        "impulsiveness",
+        "adventure"
+      ],
+      "meaning": "Charging ahead with bold confidence, a knight embraces passion and adventure without much hesitation. Decisive, energetic action defines this card, pushing toward goals with real hunger. Boldness here outweighs careful planning.",
+      "reflection": "Where does bold action feel right and what's stopping me?"
+    },
+    "reversed": {
+      "keywords": [
+        "recklessness",
+        "haste",
+        "scattered focus",
+        "frustration"
+      ],
+      "meaning": "Recklessness can take over when action outpaces thought, leading to impulsive decisions that don't quite land. Frustration builds when plans don't move as fast as desired. Scattered focus often undercuts the boldness this card usually carries.",
+      "reflection": "How have I been more impulsive than I would want?"
+    }
+  },
+  {
+    "id": "queen_of_wands",
+    "name": "Queen of Wands",
+    "suit": "wands",
+    "rank": "queen",
+    "value": 13,
+    "upright": {
+      "keywords": [
+        "confidence",
+        "warmth",
+        "determination",
+        "vibrancy"
+      ],
+      "meaning": "Radiating warmth and magnetic confidence, a queen leads with vibrant, determined energy. Passion and self-assurance define this presence, drawing others in through sheer enthusiasm. Leadership here feels natural rather than forced.",
+      "reflection": "Where can I lead with more warmth and passion?"
+    },
+    "reversed": {
+      "keywords": [
+        "insecurity",
+        "jealousy",
+        "demanding energy",
+        "burnout"
+      ],
+      "meaning": "Insecurity can hide behind an otherwise confident front, with jealousy or demanding energy creeping in underneath. Burnout sometimes follows from constantly performing strength rather than genuinely feeling it. The warmth this card usually carries can feel strained.",
+      "reflection": "Where is insecurity hiding behind a confident front?"
+    }
+  },
+  {
+    "id": "king_of_wands",
+    "name": "King of Wands",
+    "suit": "wands",
+    "rank": "king",
+    "value": 14,
+    "upright": {
+      "keywords": [
+        "leadership",
+        "vision",
+        "boldness",
+        "entrepreneurship"
+      ],
+      "meaning": "Leading with bold vision and entrepreneurial confidence, a king inspires others toward a shared, ambitious goal. Decisive leadership and a willingness to take big swings define this presence. Command comes naturally here, backed by genuine conviction.",
+      "reflection": "Which vision am I ready to lead others toward?"
+    },
+    "reversed": {
+      "keywords": [
+        "impulsiveness",
+        "domineering behavior",
+        "high expectations",
+        "ruthlessness"
+      ],
+      "meaning": "Impulsiveness or domineering behavior can surface when leadership tips into control. Unrealistically high expectations placed on others sometimes strain otherwise strong relationships. Ruthlessness can creep in when ambition outpaces consideration for those along for the ride.",
+      "reflection": "Where has ambition caused me to push too hard?"
+    }
+  },
+  {
+    "id": "ace_of_cups",
+    "name": "Ace of Cups",
+    "suit": "cups",
+    "rank": "ace",
+    "value": 1,
+    "upright": {
+      "keywords": [
+        "new feelings",
+        "emotional fulfillment",
+        "intuition",
+        "love"
+      ],
+      "meaning": "Emotion overflows here, marking the start of new feelings, a meaningful connection, or a renewed sense of fulfillment. This is the beginning of love in its many forms, romantic, familial, or simply a deeper bond with yourself. The heart feels genuinely open.",
+      "reflection": "Which new connection am I ready to welcome?"
+    },
+    "reversed": {
+      "keywords": [
+        "emotional blockage",
+        "emptiness",
+        "repressed feelings",
+        "missed connection"
+      ],
+      "meaning": "Feelings can stay bottled up rather than flowing freely, leaving a sense of emptiness where fulfillment should be. A connection that seemed promising may not have fully taken hold. Repressed emotion is often at the root of this reversal.",
+      "reflection": "What emotional block is preventing me from giving or receiving love?"
+    }
+  },
+  {
+    "id": "two_of_cups",
+    "name": "Two of Cups",
+    "suit": "cups",
+    "rank": "2",
+    "value": 2,
+    "upright": {
+      "keywords": [
+        "partnership",
+        "connection",
+        "mutual attraction",
+        "unity"
+      ],
+      "meaning": "Two figures meet as equals, raising cups in a gesture of mutual attraction, partnership, and genuine connection. This card speaks to relationships built on balanced give-and-take, where both people see each other clearly. Unity feels natural rather than forced here.",
+      "reflection": "Where does genuine mutual respect exist in my relationships?"
+    },
+    "reversed": {
+      "keywords": [
+        "imbalance",
+        "broken connection",
+        "tension",
+        "miscommunication"
+      ],
+      "meaning": "Tension can creep into a once-balanced relationship, throwing the mutual respect this card usually represents off-kilter. Miscommunication often sits at the root, straining a connection that used to feel effortless. A bond may be fraying rather than strengthening right now.",
+      "reflection": "Where has poor communication created distance I care about?"
+    }
+  },
+  {
+    "id": "three_of_cups",
+    "name": "Three of Cups",
+    "suit": "cups",
+    "rank": "3",
+    "value": 3,
+    "upright": {
+      "keywords": [
+        "celebration",
+        "friendship",
+        "community",
+        "joy"
+      ],
+      "meaning": "Friends raise their cups together in celebration, marking joy, community, and the warmth of shared connection. A happy gathering, milestone, or reunion with loved ones tends to show up under this card's influence. Togetherness feels easy and well-earned here.",
+      "reflection": "Who in my life deserves more celebration or quality time?"
+    },
+    "reversed": {
+      "keywords": [
+        "overindulgence",
+        "gossip",
+        "isolation",
+        "broken friendships"
+      ],
+      "meaning": "Overindulgence or gossip can sour what should be a joyful gathering, creating friction within a friend group. Isolation from a once-close community is another possibility, with connection feeling harder to access than usual. The celebratory spirit of this card has dimmed somewhat.",
+      "reflection": "Where has gossip or overindulgence damaged a friendship?"
+    }
+  },
+  {
+    "id": "four_of_cups",
+    "name": "Four of Cups",
+    "suit": "cups",
+    "rank": "4",
+    "value": 4,
+    "upright": {
+      "keywords": [
+        "apathy",
+        "contemplation",
+        "missed opportunity",
+        "discontentment"
+      ],
+      "meaning": "Seated beneath a tree, a figure stares past a cup being offered, lost in thought and seemingly indifferent to what's right in front of them. Apathy and discontent take hold here, with introspection tipping into withdrawal from real opportunity. Something better might be just out of view.",
+      "reflection": "Which opportunity have I been overlooking by turning inward?"
+    },
+    "reversed": {
+      "keywords": [
+        "renewed motivation",
+        "acceptance",
+        "boredom lifting",
+        "new awareness"
+      ],
+      "meaning": "A wave of renewed motivation can break through after a stretch of boredom or disengagement, making a previously ignored opportunity suddenly visible again. Acceptance starts replacing apathy. Awareness returns just in time to notice what was being missed.",
+      "reflection": "What would it take to re-engage with my life?"
+    }
+  },
+  {
+    "id": "five_of_cups",
+    "name": "Five of Cups",
+    "suit": "cups",
+    "rank": "5",
+    "value": 5,
+    "upright": {
+      "keywords": [
+        "loss",
+        "regret",
+        "disappointment",
+        "grief"
+      ],
+      "meaning": "A mourning figure stares at spilled cups, fixated on loss while two cups remain standing just behind them, easy to overlook. Grief and regret take center stage, with attention locked onto what's gone wrong rather than what's still available. Disappointment colors the whole scene.",
+      "reflection": "Which loss haven't I let myself fully grieve?"
+    },
+    "reversed": {
+      "keywords": [
+        "acceptance",
+        "moving on",
+        "finding peace",
+        "forgiveness"
+      ],
+      "meaning": "Slowly, acceptance starts to take the place of regret, and what's still standing finally comes into view. Moving on from loss becomes more possible once grief has had its say. Forgiveness, of yourself or someone else, often plays a part in this shift.",
+      "reflection": "What is still standing in my life that I've been unable to see?"
+    }
+  },
+  {
+    "id": "six_of_cups",
+    "name": "Six of Cups",
+    "suit": "cups",
+    "rank": "6",
+    "value": 6,
+    "upright": {
+      "keywords": [
+        "nostalgia",
+        "childhood memories",
+        "reunion",
+        "innocence"
+      ],
+      "meaning": "Childhood memories and simpler times come flooding back here, stirring nostalgia, innocence, and warm reconnection. A reunion with someone, or something, from the past tends to surface under this card. Sweetness and sentimentality color the mood.",
+      "reflection": "Which qualities from my past could enrich my present?"
+    },
+    "reversed": {
+      "keywords": [
+        "living in the past",
+        "naivety",
+        "unrealistic nostalgia",
+        "moving forward"
+      ],
+      "meaning": "Lingering too long in the past can make it harder to move forward, especially when old memories get viewed through an overly rosy lens. Naivety sometimes accompanies this kind of nostalgia. A gentle nudge back toward the present is often what's needed.",
+      "reflection": "Where is nostalgia keeping me from appreciating my life now?"
+    }
+  },
+  {
+    "id": "seven_of_cups",
+    "name": "Seven of Cups",
+    "suit": "cups",
+    "rank": "7",
+    "value": 7,
+    "upright": {
+      "keywords": [
+        "choices",
+        "fantasy",
+        "illusion",
+        "wishful thinking"
+      ],
+      "meaning": "A figure faces a dazzling array of tempting visions, each one more alluring and less grounded than the last. Choices abound here, but so does the risk of getting lost in fantasy rather than committing to something real. Discernment matters more than enthusiasm in this position.",
+      "reflection": "Which option in front of me aligns with what I truly want?"
+    },
+    "reversed": {
+      "keywords": [
+        "clarity",
+        "decisive action",
+        "overcoming temptation",
+        "realistic choices"
+      ],
+      "meaning": "Clarity tends to cut through illusion eventually, making room for more realistic, decisive choices. A temptation that was leading things astray may finally lose its pull. Wishful thinking gives way to a clearer sense of what's actually achievable.",
+      "reflection": "Where has wishful thinking replaced honest action?"
+    }
+  },
+  {
+    "id": "eight_of_cups",
+    "name": "Eight of Cups",
+    "suit": "cups",
+    "rank": "8",
+    "value": 8,
+    "upright": {
+      "keywords": [
+        "walking away",
+        "seeking deeper meaning",
+        "disillusionment",
+        "moving on"
+      ],
+      "meaning": "Turning away from a stack of cups left behind, a figure walks toward something deeper and harder to name. Leaving a situation that no longer satisfies, even one that looks complete from the outside, defines this card's quiet courage. The search continues elsewhere.",
+      "reflection": "What am I staying in out of habit rather than fulfillment?"
+    },
+    "reversed": {
+      "keywords": [
+        "fear of change",
+        "stagnation",
+        "aimless drifting",
+        "returning to old patterns"
+      ],
+      "meaning": "Fear can keep someone tethered to a stagnant situation long after it's stopped serving them. Aimless drifting sometimes replaces clear purpose, leaving the next step unclear. Old patterns may be calling someone back instead of letting them move forward.",
+      "reflection": "What am I afraid to lose if I walk away?"
+    }
+  },
+  {
+    "id": "nine_of_cups",
+    "name": "Nine of Cups",
+    "suit": "cups",
+    "rank": "9",
+    "value": 9,
+    "upright": {
+      "keywords": [
+        "satisfaction",
+        "contentment",
+        "wish fulfillment",
+        "gratitude"
+      ],
+      "meaning": "Arms crossed contentedly, a figure sits surrounded by their cups, radiating genuine satisfaction with what's been achieved. Often called the wish card, this position points to fulfillment and gratitude for things going right. Contentment here feels well-earned rather than fleeting.",
+      "reflection": "Does what I'm chasing lead to genuine contentment?"
+    },
+    "reversed": {
+      "keywords": [
+        "overindulgence",
+        "smugness",
+        "unfulfilled wishes",
+        "complacency"
+      ],
+      "meaning": "Surface-level pleasure can take the place of true contentment, leaving satisfaction feeling hollow rather than full. Smugness or overindulgence sometimes accompanies success that isn't as deep as it appears. A wish may still be just out of reach despite appearances.",
+      "reflection": "Where has comfort replaced deeper satisfaction?"
+    }
+  },
+  {
+    "id": "ten_of_cups",
+    "name": "Ten of Cups",
+    "suit": "cups",
+    "rank": "10",
+    "value": 10,
+    "upright": {
+      "keywords": [
+        "emotional fulfillment",
+        "harmony",
+        "family",
+        "happiness"
+      ],
+      "meaning": "A family gathers beneath a rainbow, radiating the kind of emotional fulfillment that comes from deep, lasting connection. Harmony and happiness within close relationships define this card, reflecting contentment that runs deeper than any single happy moment. Home feels genuinely whole here.",
+      "reflection": "Which relationships bring me closest to lasting fulfillment?"
+    },
+    "reversed": {
+      "keywords": [
+        "broken harmony",
+        "disconnection",
+        "unrealistic expectations",
+        "family conflict"
+      ],
+      "meaning": "Disconnection can creep into a relationship that looks happy from the outside, with underlying conflict simmering beneath a pleasant surface. Unrealistic expectations about what happiness should look like sometimes get in the way. Harmony may need real attention rather than assumption.",
+      "reflection": "Where is assumed harmony covering tension that needs attention?"
+    }
+  },
+  {
+    "id": "page_of_cups",
+    "name": "Page of Cups",
+    "suit": "cups",
+    "rank": "page",
+    "value": 11,
+    "upright": {
+      "keywords": [
+        "creativity",
+        "intuition",
+        "sensitivity",
+        "new emotions"
+      ],
+      "meaning": "A dreamy, sensitive messenger wanders close to the water, attuned to imagination, emotion, and intuitive nudges. New feelings or creative inspiration tend to bubble up here, still tentative and untested. Openness defines this stage more than certainty does.",
+      "reflection": "Which creative impulse have I dismissed as impractical?"
+    },
+    "reversed": {
+      "keywords": [
+        "emotional immaturity",
+        "creative block",
+        "moodiness",
+        "insecurity"
+      ],
+      "meaning": "Emotional immaturity or moodiness can surface when this card reverses, making feelings harder to express clearly. Creative ideas may stay locked inside daydreams rather than taking real shape. Insecurity sometimes gets in the way of genuine expression.",
+      "reflection": "Where are unexpressed feelings creating distance?"
+    }
+  },
+  {
+    "id": "knight_of_cups",
+    "name": "Knight of Cups",
+    "suit": "cups",
+    "rank": "knight",
+    "value": 12,
+    "upright": {
+      "keywords": [
+        "romance",
+        "charm",
+        "idealism",
+        "following the heart"
+      ],
+      "meaning": "Riding forward as a romantic idealist, a knight follows the heart rather than the head. Charm and emotional sincerity define this energy, often showing up as a heartfelt gesture or invitation to pursue something meaningful. Feeling guides the way here.",
+      "reflection": "Where is my heart calling me?"
+    },
+    "reversed": {
+      "keywords": [
+        "moodiness",
+        "unrealistic expectations",
+        "disappointment",
+        "jealousy"
+      ],
+      "meaning": "Moodiness or unrealistic romantic expectations can surface when fantasy doesn't quite match reality. Disappointment sometimes follows when an idealized vision falls short. Jealousy or emotional manipulation can also creep into this reversal.",
+      "reflection": "Where have idealistic expectations led me to disappointment?"
+    }
+  },
+  {
+    "id": "queen_of_cups",
+    "name": "Queen of Cups",
+    "suit": "cups",
+    "rank": "queen",
+    "value": 13,
+    "upright": {
+      "keywords": [
+        "compassion",
+        "emotional security",
+        "intuition",
+        "nurturing"
+      ],
+      "meaning": "Deeply attuned to emotion, a queen offers compassion and intuitive understanding with a calm, steady presence. Emotional security comes from real self-awareness here, not just outward calm. Care for others flows from a grounded inner place.",
+      "reflection": "How can I care for others without depleting myself?"
+    },
+    "reversed": {
+      "keywords": [
+        "emotional insecurity",
+        "codependency",
+        "moodiness",
+        "overwhelm"
+      ],
+      "meaning": "Codependency or emotional insecurity can surface when boundaries blur and others' feelings start to feel overwhelming. Moodiness sometimes takes the place of the steady compassion this card usually offers. Self-care may be getting lost in the process of caring for everyone else.",
+      "reflection": "Where am I absorbing others' emotions at my own expense?"
+    }
+  },
+  {
+    "id": "king_of_cups",
+    "name": "King of Cups",
+    "suit": "cups",
+    "rank": "king",
+    "value": 14,
+    "upright": {
+      "keywords": [
+        "emotional balance",
+        "diplomacy",
+        "compassionate leadership",
+        "wisdom"
+      ],
+      "meaning": "Calm and diplomatic, a king leads with emotional intelligence, balancing feeling and responsibility with practiced ease. Compassion guides decisions here without tipping into sentimentality. Mastery over emotion, rather than suppression of it, defines this presence.",
+      "reflection": "Where could more emotional intelligence make a real difference?"
+    },
+    "reversed": {
+      "keywords": [
+        "emotional volatility",
+        "manipulation",
+        "moodiness",
+        "repressed feelings"
+      ],
+      "meaning": "Emotional volatility can surface when feelings that should be processed get repressed instead. Manipulation through guilt or charm sometimes replaces the genuine diplomacy this card usually represents. Moodiness can undercut otherwise steady leadership.",
+      "reflection": "Where are feelings being suppressed rather than processed?"
+    }
+  },
+  {
+    "id": "ace_of_swords",
+    "name": "Ace of Swords",
+    "suit": "swords",
+    "rank": "ace",
+    "value": 1,
+    "upright": {
+      "keywords": [
+        "clarity",
+        "breakthrough",
+        "new ideas",
+        "truth"
+      ],
+      "meaning": "Mental clarity cuts through confusion in a single decisive moment, bringing a breakthrough or an honest truth into sharp focus. New ideas arrive with unusual precision here, ready to be acted on without second-guessing. Understanding suddenly snaps into place.",
+      "reflection": "Which truth am I ready to act on?"
+    },
+    "reversed": {
+      "keywords": [
+        "confusion",
+        "miscommunication",
+        "chaotic thoughts",
+        "clouded judgment"
+      ],
+      "meaning": "Clarity can stay frustratingly out of reach, with confusion or miscommunication clouding what should be obvious. A breakthrough idea may exist but hasn't fully crystallized into something usable. Chaotic thinking tends to dominate over clear-headed truth in this position.",
+      "reflection": "Where is muddled thinking keeping me from seeing clearly?"
+    }
+  },
+  {
+    "id": "two_of_swords",
+    "name": "Two of Swords",
+    "suit": "swords",
+    "rank": "2",
+    "value": 2,
+    "upright": {
+      "keywords": [
+        "difficult choices",
+        "stalemate",
+        "avoidance",
+        "indecision"
+      ],
+      "meaning": "A blindfolded figure balances two crossed blades, caught in a standoff between two difficult choices. Avoidance is doing a lot of work here, with a decision being put off rather than confronted head-on. Sometimes the only way through is to set the blindfold aside.",
+      "reflection": "Which decision have I been avoiding?"
+    },
+    "reversed": {
+      "keywords": [
+        "confusion",
+        "information overload",
+        "forced decision",
+        "release of tension"
+      ],
+      "meaning": "Mounting confusion can finally force a decision that's been avoided for too long, even if it doesn't feel entirely ready. Information overload sometimes makes the choice harder rather than easier. Removing the blindfold brings relief, even when what's revealed isn't comfortable.",
+      "reflection": "What am I keeping myself from seeing clearly?"
+    }
+  },
+  {
+    "id": "three_of_swords",
+    "name": "Three of Swords",
+    "suit": "swords",
+    "rank": "3",
+    "value": 3,
+    "upright": {
+      "keywords": [
+        "heartbreak",
+        "grief",
+        "betrayal",
+        "emotional pain"
+      ],
+      "meaning": "A heart pierced by three blades doesn't shy away from the rawness of heartbreak, grief, or betrayal. This card sits honestly with pain rather than rushing past it, acknowledging that some hurt simply needs to be felt before it can heal. There's no shortcut offered here, just honesty.",
+      "reflection": "Which heartbreak haven't I let myself fully feel?"
+    },
+    "reversed": {
+      "keywords": [
+        "healing",
+        "recovery",
+        "forgiveness",
+        "releasing pain"
+      ],
+      "meaning": "Healing tends to begin once the sharpest edge of grief has passed, making room for forgiveness to take root. Pain that's been held onto for a long time may finally start to loosen its grip. The worst of the hurt is often behind you in this position.",
+      "reflection": "What would it take to begin forgiving myself or someone else?"
+    }
+  },
+  {
+    "id": "four_of_swords",
+    "name": "Four of Swords",
+    "suit": "swords",
+    "rank": "4",
+    "value": 4,
+    "upright": {
+      "keywords": [
+        "rest",
+        "recovery",
+        "contemplation",
+        "restoration"
+      ],
+      "meaning": "A figure lies in quiet repose, taking the rest that's needed after a stretch of conflict or exertion. This is a deliberate pause, not avoidance, a chance for the mind to recover before stepping back into action. Restoration matters as much as productivity here.",
+      "reflection": "Where am I most in need of rest right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "burnout",
+        "stagnation",
+        "forced rest",
+        "restlessness"
+      ],
+      "meaning": "Ignoring the need for rest eventually catches up in the form of burnout, making this reversal a wake-up call as much as a warning. Recovery may be forced rather than chosen, arriving only once things have already run down. Restlessness can also make true rest hard to find.",
+      "reflection": "Where have I been pushing through exhaustion instead of pausing?"
+    }
+  },
+  {
+    "id": "five_of_swords",
+    "name": "Five of Swords",
+    "suit": "swords",
+    "rank": "5",
+    "value": 5,
+    "upright": {
+      "keywords": [
+        "conflict",
+        "win at all costs",
+        "betrayal",
+        "tension"
+      ],
+      "meaning": "A figure gathers up swords after a conflict while others walk away in defeat, illustrating a victory that comes at a real cost. Winning at all costs tends to leave a hollow feeling once the dust settles. Ego-driven conflict rarely satisfies the way it promises to.",
+      "reflection": "What does winning at all costs actually cost me?"
+    },
+    "reversed": {
+      "keywords": [
+        "seeking peace",
+        "remorse",
+        "reconciliation",
+        "moving past conflict"
+      ],
+      "meaning": "Remorse can set in once the cost of a hard-won victory becomes clear, opening the door to reconciliation. Seeking peace after conflict, rather than chasing another win, defines this shift. Letting go of the need to come out on top tends to bring more relief than the win itself did.",
+      "reflection": "Where could choosing peace be more valuable than being right?"
+    }
+  },
+  {
+    "id": "six_of_swords",
+    "name": "Six of Swords",
+    "suit": "swords",
+    "rank": "6",
+    "value": 6,
+    "upright": {
+      "keywords": [
+        "transition",
+        "moving on",
+        "leaving difficulty behind",
+        "gradual progress"
+      ],
+      "meaning": "A figure is ferried quietly across calm water, leaving troubled shores behind for something steadier. Transition and gradual healing define this journey, even if the destination isn't fully clear yet. Moving away from difficulty, even slowly, counts as real progress.",
+      "reflection": "Which difficult situation am I ready to move away from?"
+    },
+    "reversed": {
+      "keywords": [
+        "resistance to change",
+        "unfinished business",
+        "stuck in turmoil",
+        "delayed transition"
+      ],
+      "meaning": "Resistance to a necessary transition can keep someone stuck longer than they need to be, with unfinished business pulling them back toward old turmoil. The escape this card usually represents may simply be delayed. Calmer waters are still ahead, just not quite reached yet.",
+      "reflection": "What is keeping me in pain when calmer ground is available?"
+    }
+  },
+  {
+    "id": "seven_of_swords",
+    "name": "Seven of Swords",
+    "suit": "swords",
+    "rank": "7",
+    "value": 7,
+    "upright": {
+      "keywords": [
+        "deception",
+        "strategy",
+        "getting away with something",
+        "sneaking"
+      ],
+      "meaning": "A figure slips away quietly with several swords in tow, favoring strategy and stealth over direct confrontation. Deception, cunning, or simply working around others rather than with them tends to define this energy. Getting away with something matters more than honesty here.",
+      "reflection": "Where is avoidance creating more problems than honesty would?"
+    },
+    "reversed": {
+      "keywords": [
+        "coming clean",
+        "facing consequences",
+        "self-deceit revealed",
+        "guilt"
+      ],
+      "meaning": "A hidden deception often gets exposed under this reversal, forcing a reckoning that was avoided for too long. Guilt can surface once the consequences of dishonest tactics come to light. Coming clean, however uncomfortable, tends to be the path forward.",
+      "reflection": "Which deception has started to weigh on me?"
+    }
+  },
+  {
+    "id": "eight_of_swords",
+    "name": "Eight of Swords",
+    "suit": "swords",
+    "rank": "8",
+    "value": 8,
+    "upright": {
+      "keywords": [
+        "restriction",
+        "self-imposed limits",
+        "feeling trapped",
+        "victim mentality"
+      ],
+      "meaning": "Bound and blindfolded, a figure stands surrounded by swords that, on closer look, don't actually form a complete cage. Restriction here is largely self-imposed, built more from fear and limiting beliefs than real circumstance. The way out is closer than it feels.",
+      "reflection": "Which belief is making my situation feel more trapped than it is?"
+    },
+    "reversed": {
+      "keywords": [
+        "self-liberation",
+        "new perspective",
+        "releasing fear",
+        "regaining control"
+      ],
+      "meaning": "Breaking free from self-imposed limits often marks this reversal, bringing a new perspective that wasn't available before. Releasing old fear opens up options that were always technically there. A sense of regained control tends to follow.",
+      "reflection": "What would I do if my restrictions were smaller than they feel?"
+    }
+  },
+  {
+    "id": "nine_of_swords",
+    "name": "Nine of Swords",
+    "suit": "swords",
+    "rank": "9",
+    "value": 9,
+    "upright": {
+      "keywords": [
+        "anxiety",
+        "worry",
+        "nightmares",
+        "mental distress"
+      ],
+      "meaning": "Sitting upright in bed, head in hands, a figure wrestles with anxiety and worry that feel especially heavy in the dark. Mental distress and looming fears take center stage here, often larger in the mind than in reality. Sleep offers little relief from this kind of weight.",
+      "reflection": "How much of my worry reflects reality rather than fear?"
+    },
+    "reversed": {
+      "keywords": [
+        "releasing fear",
+        "hope returning",
+        "facing anxiety",
+        "recovery"
+      ],
+      "meaning": "Anxiety can begin to loosen its grip, with hope slowly returning after a particularly dark stretch. Facing fears head-on, rather than letting them fester in private, tends to mark this shift. Recovery is underway even if it doesn't feel complete yet.",
+      "reflection": "Which anxiety have I been carrying alone that I could share?"
+    }
+  },
+  {
+    "id": "ten_of_swords",
+    "name": "Ten of Swords",
+    "suit": "swords",
+    "rank": "10",
+    "value": 10,
+    "upright": {
+      "keywords": [
+        "painful endings",
+        "betrayal",
+        "rock bottom",
+        "release"
+      ],
+      "meaning": "A figure lies defeated, swords lodged firmly in their back, marking a painful ending or sense of betrayal. As severe as this image looks, it tends to represent rock bottom, meaning the only direction left from here is up. Closure, however harsh, is part of the picture.",
+      "reflection": "Which painful ending do I need to accept to move forward?"
+    },
+    "reversed": {
+      "keywords": [
+        "recovery",
+        "resisting an ending",
+        "gradual healing",
+        "inevitable conclusion"
+      ],
+      "meaning": "Recovery can begin once the worst of a painful ending has passed, even if healing is gradual rather than immediate. Resistance to accepting that something has truly run its course is also common here. The end may still be unfolding rather than fully behind you.",
+      "reflection": "Where am I resisting the finality of something already over?"
+    }
+  },
+  {
+    "id": "page_of_swords",
+    "name": "Page of Swords",
+    "suit": "swords",
+    "rank": "page",
+    "value": 11,
+    "upright": {
+      "keywords": [
+        "curiosity",
+        "mental agility",
+        "new ideas",
+        "vigilance"
+      ],
+      "meaning": "Quick-witted and watchful, a young messenger scans the horizon, eager to learn and quick to communicate. Curiosity and mental agility define this energy, with new ideas still in their early, exploratory stages. Vigilance comes naturally here.",
+      "reflection": "Which idea am I most curious about right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "gossip",
+        "scattered thoughts",
+        "all talk, no action",
+        "deception"
+      ],
+      "meaning": "Gossip or scattered thinking can take over when this card reverses, with plenty of talk but little real follow-through. Cleverness sometimes gets used in less than kind ways. Ideas may stay half-formed without the focus needed to carry them out.",
+      "reflection": "Where has cleverness not served my integrity?"
+    }
+  },
+  {
+    "id": "knight_of_swords",
+    "name": "Knight of Swords",
+    "suit": "swords",
+    "rank": "knight",
+    "value": 12,
+    "upright": {
+      "keywords": [
+        "ambition",
+        "fast thinking",
+        "directness",
+        "assertiveness"
+      ],
+      "meaning": "Charging ahead with sharp focus, a knight pushes a plan forward with directness and unmistakable ambition. Fast thinking and assertive action define this energy, sometimes blunt but rarely hesitant. Decisiveness wins out over careful deliberation.",
+      "reflection": "Where does bold action feel genuinely called for?"
+    },
+    "reversed": {
+      "keywords": [
+        "impulsiveness",
+        "recklessness",
+        "aggression",
+        "burnout"
+      ],
+      "meaning": "Reckless haste can undercut otherwise good intentions, leading to burnout from moving too fast for too long. Aggression sometimes alienates the very people whose support is needed. Scattered, impulsive decisions often replace the sharp focus this card usually carries.",
+      "reflection": "Where has moving too fast caused avoidable damage?"
+    }
+  },
+  {
+    "id": "queen_of_swords",
+    "name": "Queen of Swords",
+    "suit": "swords",
+    "rank": "queen",
+    "value": 13,
+    "upright": {
+      "keywords": [
+        "clarity",
+        "independence",
+        "direct communication",
+        "wisdom"
+      ],
+      "meaning": "Seeing clearly and speaking honestly, a queen embodies independence and wisdom earned through real experience. Sharp intellect and direct communication define this presence, standing firm without needing approval. Clarity here comes from hard-won perspective.",
+      "reflection": "Where could speaking my truth lead to more clarity?"
+    },
+    "reversed": {
+      "keywords": [
+        "coldness",
+        "bitterness",
+        "harsh judgment",
+        "isolation"
+      ],
+      "meaning": "Coldness or harsh judgment can creep in when guardedness goes too far, pushing others away rather than protecting genuine boundaries. Bitterness sometimes colors what should be honest communication. Isolation can follow when openness gives way to defensiveness.",
+      "reflection": "Where have sharp words created distance I didn't want?"
+    }
+  },
+  {
+    "id": "king_of_swords",
+    "name": "King of Swords",
+    "suit": "swords",
+    "rank": "king",
+    "value": 14,
+    "upright": {
+      "keywords": [
+        "intellectual authority",
+        "truth",
+        "ethics",
+        "clear judgment"
+      ],
+      "meaning": "Leading with intellectual authority and a firm sense of ethics, a king makes decisions grounded in logic and fairness. Clear judgment and principled leadership define this presence, valued for its consistency and honesty. Truth matters more than convenience here.",
+      "reflection": "Where is principled leadership most needed from me?"
+    },
+    "reversed": {
+      "keywords": [
+        "abuse of power",
+        "manipulation",
+        "coldness",
+        "rigid thinking"
+      ],
+      "meaning": "An abuse of power can surface when authority goes unchecked, sometimes dressed up as cold, detached logic. Manipulation can hide behind a veneer of reasoned argument. Rigid, inflexible thinking sometimes replaces the fairness this card usually represents.",
+      "reflection": "Where has cold logic caused me to overlook an emotional truth?"
+    }
+  },
+  {
+    "id": "ace_of_pentacles",
+    "name": "Ace of Pentacles",
+    "suit": "pentacles",
+    "rank": "ace",
+    "value": 1,
+    "upright": {
+      "keywords": [
+        "new opportunity",
+        "prosperity",
+        "manifestation",
+        "abundance"
+      ],
+      "meaning": "A tangible new opportunity presents itself, full of potential for growth in finances, career, or physical wellbeing. This is the seed of material manifestation, grounded, promising, and ready to be planted. Abundance feels genuinely within reach here.",
+      "reflection": "Which practical opportunity is worth my real investment?"
+    },
+    "reversed": {
+      "keywords": [
+        "missed opportunity",
+        "lack of planning",
+        "scarcity mindset",
+        "delayed gains"
+      ],
+      "meaning": "A promising opportunity can slip by unnoticed when planning falls short, or a scarcity mindset blocks the abundance that's actually available. Gains may simply be delayed, requiring more groundwork before they can grow. Patience and better preparation tend to be the fix.",
+      "reflection": "What is blocking me from taking a step toward stability?"
+    }
+  },
+  {
+    "id": "two_of_pentacles",
+    "name": "Two of Pentacles",
+    "suit": "pentacles",
+    "rank": "2",
+    "value": 2,
+    "upright": {
+      "keywords": [
+        "balance",
+        "adaptability",
+        "juggling priorities",
+        "time management"
+      ],
+      "meaning": "Coins are tossed easily between two hands, representing the skill of juggling multiple priorities without losing balance. Adaptability is the name of the game here, staying light on your feet as circumstances keep shifting. Equilibrium feels manageable, if a little chaotic.",
+      "reflection": "How can I manage my priorities with less strain?"
+    },
+    "reversed": {
+      "keywords": [
+        "overwhelm",
+        "disorganization",
+        "overcommitment",
+        "loss of balance"
+      ],
+      "meaning": "Too many priorities at once can tip from manageable into overwhelming, leaving organization falling apart at the seams. Overcommitment often sits behind this reversal, with more taken on than can realistically be handled. Balance has slipped further than it should have.",
+      "reflection": "Where have I taken on more than I can handle?"
+    }
+  },
+  {
+    "id": "three_of_pentacles",
+    "name": "Three of Pentacles",
+    "suit": "pentacles",
+    "rank": "3",
+    "value": 3,
+    "upright": {
+      "keywords": [
+        "teamwork",
+        "collaboration",
+        "skill",
+        "craftsmanship"
+      ],
+      "meaning": "Skilled hands work together on a shared project, blending different talents toward a common goal. Craftsmanship, collaboration, and mutual respect for expertise define this card's energy. Good work gets recognized when people pull in the same direction.",
+      "reflection": "Where could collaboration lead to a better outcome?"
+    },
+    "reversed": {
+      "keywords": [
+        "lack of teamwork",
+        "misalignment",
+        "disorganization",
+        "poor quality work"
+      ],
+      "meaning": "Misaligned goals or poor coordination can undercut a project that should be benefiting from teamwork. Recognition for skilled effort may be missing, leaving quality work feeling underappreciated. Disorganization tends to be the culprit when things fall short here.",
+      "reflection": "Where is poor coordination undermining a shared effort?"
+    }
+  },
+  {
+    "id": "four_of_pentacles",
+    "name": "Four of Pentacles",
+    "suit": "pentacles",
+    "rank": "4",
+    "value": 4,
+    "upright": {
+      "keywords": [
+        "security",
+        "conservation",
+        "control",
+        "saving"
+      ],
+      "meaning": "Coins are held tightly in clenched hands, reflecting a strong desire for financial security and control over resources. Conservation and careful saving define this energy, though it can shade into a guarded, tight-fisted grip on what's already there. Holding on feels safer than letting go.",
+      "reflection": "Where does financial caution tip into fear?"
+    },
+    "reversed": {
+      "keywords": [
+        "greed",
+        "materialism",
+        "letting go",
+        "financial insecurity"
+      ],
+      "meaning": "An unhealthy attachment to material things can take hold when this card reverses, with greed or anxiety overriding generosity. Financial insecurity sometimes lurks beneath the surface, prompting a tighter grip out of fear rather than genuine need. Learning to loosen that grip is often the lesson.",
+      "reflection": "What would it feel like to trust that I have enough?"
+    }
+  },
+  {
+    "id": "five_of_pentacles",
+    "name": "Five of Pentacles",
+    "suit": "pentacles",
+    "rank": "5",
+    "value": 5,
+    "upright": {
+      "keywords": [
+        "hardship",
+        "financial loss",
+        "insecurity",
+        "isolation"
+      ],
+      "meaning": "Two figures struggle through the cold just outside a brightly lit window, illustrating real hardship and the sting of feeling left out. Financial loss or insecurity tends to dominate here, though help may be closer than it appears. Hard times don't necessarily mean hopeless ones.",
+      "reflection": "Where do I feel most left behind right now?"
+    },
+    "reversed": {
+      "keywords": [
+        "recovery",
+        "support found",
+        "improving circumstances",
+        "spiritual lesson"
+      ],
+      "meaning": "Circumstances can finally start to improve, with support arriving from a source that wasn't initially obvious. Recovery from a difficult financial stretch becomes more tangible here. Sometimes hardship leaves behind a hard-earned lesson worth carrying forward.",
+      "reflection": "Which hardship have I been carrying alone?"
+    }
+  },
+  {
+    "id": "six_of_pentacles",
+    "name": "Six of Pentacles",
+    "suit": "pentacles",
+    "rank": "6",
+    "value": 6,
+    "upright": {
+      "keywords": [
+        "generosity",
+        "charity",
+        "sharing resources",
+        "fairness"
+      ],
+      "meaning": "Coins pass from one hand to another in an act of generosity, reflecting fair giving and the balance between abundance and need. Charity and shared resources define this energy, with both sides benefiting from the exchange. Goodwill flows freely here.",
+      "reflection": "Where could genuine generosity make a real difference?"
+    },
+    "reversed": {
+      "keywords": [
+        "debt",
+        "strings attached",
+        "imbalance of power",
+        "selfishness"
+      ],
+      "meaning": "Generosity with hidden strings attached can shift the balance of power in an otherwise giving relationship. Outstanding debts or selfish motives sometimes sit behind an act that looks charitable on the surface. Fair exchange has tipped into something more one-sided.",
+      "reflection": "Where has an exchange in my life felt one-sided?"
+    }
+  },
+  {
+    "id": "seven_of_pentacles",
+    "name": "Seven of Pentacles",
+    "suit": "pentacles",
+    "rank": "7",
+    "value": 7,
+    "upright": {
+      "keywords": [
+        "patience",
+        "investment",
+        "long-term view",
+        "assessment"
+      ],
+      "meaning": "Pausing mid-task, a figure assesses a growing crop, weighing whether the effort invested so far is paying off. Patience and long-term thinking define this card, valuing steady cultivation over quick results. Evaluation matters as much as the work itself.",
+      "reflection": "Is my current effort pointing toward what I actually want?"
+    },
+    "reversed": {
+      "keywords": [
+        "impatience",
+        "lack of reward",
+        "poor investment",
+        "wasted effort"
+      ],
+      "meaning": "Frustration can build when effort doesn't seem to be paying off as expected, testing the patience this card usually calls for. A strategy that isn't working may need real reassessment rather than more time. Wasted effort is a real risk if adjustments aren't made.",
+      "reflection": "Where is impatience tempting me to give up too soon?"
+    }
+  },
+  {
+    "id": "eight_of_pentacles",
+    "name": "Eight of Pentacles",
+    "suit": "pentacles",
+    "rank": "8",
+    "value": 8,
+    "upright": {
+      "keywords": [
+        "mastery",
+        "diligence",
+        "skill-building",
+        "dedication"
+      ],
+      "meaning": "Hunched over a workbench, a craftsman carves coin after coin with quiet, focused dedication. Mastery comes from this kind of repetitive, careful effort, skill built one deliberate step at a time. Diligence matters more than flash here.",
+      "reflection": "Which skill deserves more of my focused attention?"
+    },
+    "reversed": {
+      "keywords": [
+        "perfectionism",
+        "lack of focus",
+        "shortcuts",
+        "stalled progress"
+      ],
+      "meaning": "Perfectionism can stall progress just as easily as laziness, with neither extreme allowing real growth. A lack of focus on skill-building, or shortcuts taken instead of real practice, often shows up in this position. Progress slows when the underlying dedication wavers.",
+      "reflection": "Where has perfectionism stalled the progress I'm capable of?"
+    }
+  },
+  {
+    "id": "nine_of_pentacles",
+    "name": "Nine of Pentacles",
+    "suit": "pentacles",
+    "rank": "9",
+    "value": 9,
+    "upright": {
+      "keywords": [
+        "independence",
+        "luxury",
+        "self-sufficiency",
+        "financial security"
+      ],
+      "meaning": "Standing comfortably amid a flourishing garden, a figure enjoys the rewards of independence and self-sufficiency. Luxury here has been earned rather than handed over, reflecting genuine financial and personal security. Satisfaction comes from relying on your own labor.",
+      "reflection": "Where can I appreciate the self-sufficiency I've built?"
+    },
+    "reversed": {
+      "keywords": [
+        "financial setback",
+        "overreliance on others",
+        "superficiality",
+        "isolation"
+      ],
+      "meaning": "A financial setback can shake the independence this card usually celebrates, prompting unexpected reliance on others. Comfort may start to feel more superficial than secure. Isolation can also creep in even amid apparent material success.",
+      "reflection": "Where has material security started to feel empty?"
+    }
+  },
+  {
+    "id": "ten_of_pentacles",
+    "name": "Ten of Pentacles",
+    "suit": "pentacles",
+    "rank": "10",
+    "value": 10,
+    "upright": {
+      "keywords": [
+        "legacy",
+        "long-term success",
+        "family wealth",
+        "stability"
+      ],
+      "meaning": "Generations gather together under one roof, reflecting the kind of legacy and long-term stability built up over years of sustained effort. Lasting security, material and otherwise, gets passed down here, benefiting more than just one person. Wealth in the fullest sense is on display.",
+      "reflection": "Which legacy am I building through the work I do now?"
+    },
+    "reversed": {
+      "keywords": [
+        "financial loss",
+        "family disputes",
+        "broken traditions",
+        "instability"
+      ],
+      "meaning": "Financial setbacks or family disputes can chip away at the security this card usually represents. Long-standing traditions or structures may be breaking down rather than holding steady. Instability threatens what once felt permanent and secure.",
+      "reflection": "Where is financial stress threatening the stability I've worked for?"
+    }
+  },
+  {
+    "id": "page_of_pentacles",
+    "name": "Page of Pentacles",
+    "suit": "pentacles",
+    "rank": "page",
+    "value": 11,
+    "upright": {
+      "keywords": [
+        "ambition",
+        "diligence",
+        "new skills",
+        "manifestation"
+      ],
+      "meaning": "A studious young messenger pores over practical plans, eager to learn a new skill or pursue a tangible goal. Ambition and diligence define this stage, even if the path forward is still being mapped out. Grounded curiosity drives the energy here.",
+      "reflection": "Which practical skill am I excited to develop?"
+    },
+    "reversed": {
+      "keywords": [
+        "lack of commitment",
+        "procrastination",
+        "unrealistic plans",
+        "poor follow-through"
+      ],
+      "meaning": "Procrastination can creep in when this card reverses, leaving practical goals stalled despite good intentions. Unrealistic plans or distraction sometimes pull focus away from steady, achievable progress. Follow-through is the missing ingredient.",
+      "reflection": "Where is procrastination getting in the way of a goal I care about?"
+    }
+  },
+  {
+    "id": "knight_of_pentacles",
+    "name": "Knight of Pentacles",
+    "suit": "pentacles",
+    "rank": "knight",
+    "value": 12,
+    "upright": {
+      "keywords": [
+        "reliability",
+        "diligence",
+        "routine",
+        "steady progress"
+      ],
+      "meaning": "Moving slowly and deliberately, a knight favors reliability and steady progress over flashy speed. Diligence and routine define this energy, with consistency winning out over short bursts of effort. Methodical work tends to pay off here.",
+      "reflection": "Where would more consistency lead to the progress I want?"
+    },
+    "reversed": {
+      "keywords": [
+        "boredom",
+        "stagnation",
+        "rigidity",
+        "stubbornness"
+      ],
+      "meaning": "Stagnation or boredom with routine can settle in when this card reverses, making steady progress feel stale. Stubbornness sometimes resists change that's genuinely needed. Rigidity can hold back growth that depends on a bit more flexibility.",
+      "reflection": "Where has rigid routine prevented growth I actually need?"
+    }
+  },
+  {
+    "id": "queen_of_pentacles",
+    "name": "Queen of Pentacles",
+    "suit": "pentacles",
+    "rank": "queen",
+    "value": 13,
+    "upright": {
+      "keywords": [
+        "practicality",
+        "nurturing",
+        "resourcefulness",
+        "abundance"
+      ],
+      "meaning": "Blending warmth with practicality, a queen creates comfort and security through steady, grounded effort. Resourcefulness defines this presence, nurturing both herself and those around her without losing sight of either. Abundance flows from consistent care.",
+      "reflection": "How can I create more nourishment in my everyday life?"
+    },
+    "reversed": {
+      "keywords": [
+        "self-neglect",
+        "overextension",
+        "smothering",
+        "insecurity about resources"
+      ],
+      "meaning": "Self-neglect can creep in when care for others stretches too thin, leaving little energy left over for personal needs. Smothering behavior sometimes replaces genuine nurturing. Anxiety about resources or security may also be simmering underneath.",
+      "reflection": "Where have I neglected my own needs while caring for others?"
+    }
+  },
+  {
+    "id": "king_of_pentacles",
+    "name": "King of Pentacles",
+    "suit": "pentacles",
+    "rank": "king",
+    "value": 14,
+    "upright": {
+      "keywords": [
+        "abundance",
+        "security",
+        "discipline",
+        "business acumen"
+      ],
+      "meaning": "Steady and disciplined, a king builds lasting material success through patient, practical effort. Business acumen and security define this presence, reflecting mastery over the everyday, practical world. Abundance here has been earned through consistency.",
+      "reflection": "Where can my experience and discipline create more security?"
+    },
+    "reversed": {
+      "keywords": [
+        "greed",
+        "stubbornness",
+        "overcontrol",
+        "materialism"
+      ],
+      "meaning": "Greed or stubbornness can creep in when discipline tips into overcontrol. Materialism sometimes overshadows other values that matter just as much. An overcontrolling approach to money or resources can strain relationships built on more than just security.",
+      "reflection": "Where has a focus on success crowded out what else matters?"
+    }
+  }
+]
