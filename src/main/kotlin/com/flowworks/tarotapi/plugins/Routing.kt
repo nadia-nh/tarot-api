@@ -8,6 +8,8 @@ import io.ktor.server.routing.*
 
 fun Application.configureRouting() {
     routing {
+        install(IgnoreTrailingSlash)
+
         get("/health") {
             call.respondText("""{"status":"ok"}""", ContentType.Application.Json)
         }

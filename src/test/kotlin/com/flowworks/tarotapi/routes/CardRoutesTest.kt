@@ -49,6 +49,15 @@ class CardRoutesTest {
     }
 
     @Test
+    fun `list all cards tolerates a trailing slash`() = testApp {
+        val response = jsonClient().get("/api/v1/cards/")
+
+        assertEquals(HttpStatusCode.OK, response.status)
+        val body = response.body<CardListResponse>()
+        assertEquals(78, body.count)
+    }
+
+    @Test
     fun `filtering by suit returns only that suit`() = testApp {
         val response = jsonClient().get("/api/v1/cards?suit=wands")
 
