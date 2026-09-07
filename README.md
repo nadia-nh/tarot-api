@@ -2,6 +2,10 @@
 
 A self-hosted Ktor API serving the 78-card Rider-Waite-Smith tarot deck: keywords, long-form meanings, and journaling-style reflection prompts for both upright and reversed orientations.
 
+## Live endpoint
+
+Deployed at `https://tarot-api.fly.dev`, e.g. `https://tarot-api.fly.dev/api/v1/cards`.
+
 ## Endpoints
 
 | Method | Path                    | Description                                   |
